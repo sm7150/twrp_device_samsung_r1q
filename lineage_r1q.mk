@@ -15,7 +15,7 @@
 #
 
 # Release name
-PRODUCT_RELEASE_NAME := a70q
+PRODUCT_RELEASE_NAME := r1q
 
 $(call inherit-product, build/target/product/embedded.mk)
 
@@ -23,8 +23,8 @@ $(call inherit-product, build/target/product/embedded.mk)
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := a70q
-PRODUCT_NAME := lineage_a70q
+PRODUCT_DEVICE := r1q
+PRODUCT_NAME := lineage_r1q
 PRODUCT_BRAND := samsung
-PRODUCT_MODEL := SM-A705FN
+PRODUCT_MODEL := SM-A805
 PRODUCT_MANUFACTURER := samsung

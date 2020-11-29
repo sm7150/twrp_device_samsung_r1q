@@ -14,6 +14,6 @@
 # limitations under the License.
 #
 
-add_lunch_combo lineage_a70q-eng
-add_lunch_combo lineage_a70q-user
-add_lunch_combo lineage_a70q-userdebug
+add_lunch_combo lineage_r1q-eng
+add_lunch_combo lineage_r1q-user
+add_lunch_combo lineage_r1q-userdebug

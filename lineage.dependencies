@@ -1,8 +1,8 @@
 [
 	{
 		"remote":"github",
-		"repository":"a70q-dev/android_kernel_samsung_a70q",
-		"target_path":"kernel/samsung/a70q",
-		"revision":"twrp-9.0"
+		"repository":"sm7150/twrp_kernel_samsung_r1q",
+		"target_path":"kernel/samsung/r1q",
+		"revision":"main"
 	}
 ]
